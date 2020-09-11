@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum:ital@0;1&family=Teko&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander:wght@300&display=swap');
+
+a {
+    color: rgba(41, 202, 36, 0.808);
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+}
+p {
+    color: rgb(255, 255, 255);
+    font-family: 'Cuprum', sans-serif;
+    font-size: 17px;
+}
+
+h1 {
+    color: rgb(0, 174, 255);
+    font-family: 'Cuprum', sans-serif;
+    font-size: 70px;
+}
+h2 {
+    color: rgb(245, 245, 245);
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+}
+h3 {
+    color: rgb(0, 255, 255);
+    font-family: 'Cuprum', sans-serif;
+    font-size: 20px;
+}
+h4 {
+    color: rgb(245, 245, 245);
+    font-family: 'Cuprum', sans-serif;
+}
+
+h5 {
+    color: rgba(0, 0, 0, 0.600);
+    font-family: 'Cuprum', sans-serif;
+}
+
+h6 {
+    color: rgb(245, 245, 245);
+    font-family: 'Cuprum', sans-serif;
+}
+b {
+    color: rgb(85, 85, 85);
+    font-family: 'Cuprum', sans-serif;
+}
+
+.header-contaneir{
+    border: 0px solid rgb(0, 255, 115);
+    text-align: center;
+    position: absolute;
+    top: 175px;
+    left: 30px;
+    right: 30px;
+    display: block;
+    width: 95%;
+}
+s {
+    color: rgba(41, 202, 36, 0.808);
+    font-size: 40px;
+    font-family: 'Grandstander', cursive;
+    text-decoration: none;
+}
+
+#header-btn{
+    background-color: #ff0000;
+    color: #ffffff;
+    text-decoration: none;
+    width: 170px;
+    height: 50px;
+    display: inline-block;
+    border-radius: 50px;
+    padding-top: 11px;
+}
+
+.cards-contaneir{
+   margin: 75px;
+   text-align: center;
+}
+
+.testemonial-contaneir{
+    background-color: #b9b9b9;
+    height: 200px;
+    width: 100%;
+}
+
+.price-contaneir{
+    margin: 51px;
+}
+.table-container{
+    background-color: rgba(255, 255, 255, 0.445);
+    text-align: center;
+    position: absolute;
+    top: 250px;
+    display: block;
+    width: 100%;
+}
